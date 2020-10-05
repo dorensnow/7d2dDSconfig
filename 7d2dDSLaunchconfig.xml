@@ -22,7 +22,7 @@
 
 						<Download>https://github.com/dorensnow/DSServer-MOD</Download>
 
-					   <Downloads>
+					   </Downloads>
 
                </Server>
 
@@ -44,7 +44,7 @@
 
 						<Download></Download>
 
-					   <Downloads>
+					   </Downloads>
 
                </Server>
        </ServerGroup>
