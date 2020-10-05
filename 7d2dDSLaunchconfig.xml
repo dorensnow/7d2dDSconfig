@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Servers>
+
+       <ServerGroup Name="Doren Snow Gaming" Logo="" Description="">
+
+               <Server Name="DS Gaming Stable" Logo="">
+
+                       <Description>A19 Stable with DS server mod pack installed. 
+
+                       </Description>
+
+                       <DownloadMode>Clone</DownloadMode>
+
+                       <SubscriptionLink></SubscriptionLink>
+
+                       <Version>Stable</Version>
+
+                       <ReleaseNotes/>
+
+                       <Downloads>
+
+						<Download>https://github.com/dorensnow/DSServer-MOD</Download>
+
+					   <Downloads>
+
+               </Server>
+
+				<Server Name="DS Gaming Exp" Logo="">
+
+                       <Description>A19 Experimental. 
+
+                       </Description>
+
+                       <DownloadMode>Clone</DownloadMode>
+
+                       <SubscriptionLink></SubscriptionLink>
+
+                       <Version>Experimental</Version>
+
+                       <ReleaseNotes/>
+
+                       <Downloads>
+
+						<Download></Download>
+
+					   <Downloads>
+
+               </Server>
+       </ServerGroup>
+
+</Servers>
